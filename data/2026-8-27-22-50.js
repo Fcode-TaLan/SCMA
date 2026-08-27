@@ -59,28 +59,29 @@ var SCMA_DATA = {
       "riskContent": "在未经允许的情况下解包了zx34的作品文件，并且在未经允许的情况下在B站进行传播。\nzx34本人提醒后，还进行恶意嘲讽。\n至2026年8月28日，仍未删除传播作品的视频。",
       "riskLevel": 3,
       "accomplices": [
-        {"name":"周志航offline","platform": "B站", "account": "3546720224938218"}
+        {"name":"周志航offline","platform": "B站", "account": "3546720224938218", "desc": "他在评论区与LX_gssy站一边。并且制作了下载解包工具的网站zhouzhihang.top/zzhos/zx"}
       ],
       "altAccounts": [
         {"name": "LX_gssy", "platform": "B站", "account": "1948173011"}
       ],
       "references": [
-      
+        "https://www.bilibili.com/video/BV1X6hw6kEL4/"
       ]
     },
     {
-      "name": "sp鹦鹉",
-      "time":"2026-8-16-09:57",
-      "riskContent": "经常盗用他人的伪系统作品，并且会把基本的GUI加上手写的“sp鹦鹉”和不雅图画。并且别人找她时，她还一直说这是她自创的。\n她还说“那个不叫python，那个叫sp语言”等猎奇话语。\n目前已经退出sc圈。",
+      "name": "周志航offline",
+      "time":"2026-8-26-20:20",
+      "riskContent": "帮凶。\n在违规者LX_gssy的评论区发布了解包的工具的下载网站。\n并且在未经允许的情况下制作了非常简陋，但是GUI完全照搬zx34的作品zxLeafOS。",
       "riskLevel": 2,
       "accomplices": [
-        {"name":"Mpigeon","platform": "QQ", "account": "1771889878"}
+        
       ],
       "altAccounts": [
-        {"name": "特异原始阳光帝果", "platform": "B站", "account": "3493112626285140"}
+        {"name": "周志航offline", "platform": "B站", "account": "3546720224938218"}
       ],
       "references": [
-      
+        "https://www.bilibili.com/video/BV1X6hw6kEL4/",
+        "zhouzhihang.top/zzhos/zx"
       ]
     }
   ]
