@@ -81,7 +81,7 @@ var SCMA_DATA = {
       ],
       "references": [
         "https://www.bilibili.com/video/BV1X6hw6kEL4/",
-        "zhouzhihang.top/zzhos/zx"
+        "https://zhouzhihang.top/zzhos/zx"
       ]
     }
   ]
